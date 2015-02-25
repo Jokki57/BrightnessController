@@ -1,0 +1,6 @@
+D:\MyGit\BrightnessControll\BrightnessControll\BrightnessControll\bin\Debug\BrightnessControll.exe.config
+D:\MyGit\BrightnessControll\BrightnessControll\BrightnessControll\obj\Debug\BrightnessControll.csprojResolveAssemblyReference.cache
+D:\MyGit\BrightnessControll\BrightnessControll\BrightnessControll\bin\Debug\BrightnessControll.exe
+D:\MyGit\BrightnessControll\BrightnessControll\BrightnessControll\bin\Debug\BrightnessControll.pdb
+D:\MyGit\BrightnessControll\BrightnessControll\BrightnessControll\obj\Debug\BrightnessControll.exe
+D:\MyGit\BrightnessControll\BrightnessControll\BrightnessControll\obj\Debug\BrightnessControll.pdb
